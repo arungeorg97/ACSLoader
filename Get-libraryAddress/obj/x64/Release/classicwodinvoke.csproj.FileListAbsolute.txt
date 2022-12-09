@@ -1,0 +1,40 @@
+C:\Users\root\Desktop\Crtoii\c#\injection\Classic\classicwodinvoke\bin\x64\Release\classicwodinvoke.exe.config
+C:\Users\root\Desktop\Crtoii\c#\injection\Classic\classicwodinvoke\bin\x64\Release\classicwodinvoke.exe
+C:\Users\root\Desktop\Crtoii\c#\injection\Classic\classicwodinvoke\bin\x64\Release\classicwodinvoke.pdb
+C:\Users\root\Desktop\Crtoii\c#\injection\Classic\classicwodinvoke\obj\x64\Release\classicwodinvoke.csproj.AssemblyReference.cache
+C:\Users\root\Desktop\Crtoii\c#\injection\Classic\classicwodinvoke\obj\x64\Release\classicwodinvoke.csproj.SuggestedBindingRedirects.cache
+C:\Users\root\Desktop\Crtoii\c#\injection\Classic\classicwodinvoke\obj\x64\Release\classicwodinvoke.csproj.CoreCompileInputs.cache
+C:\Users\root\Desktop\Crtoii\c#\injection\Classic\classicwodinvoke\obj\x64\Release\classicwodinvoke.exe
+C:\Users\root\Desktop\Crtoii\c#\injection\Classic\classicwodinvoke\obj\x64\Release\classicwodinvoke.pdb
+C:\Users\root\Desktop\Crtoii\c#\injection\Classic - call to bin\classicwodinvoke\bin\x64\Release\classicwodinvoke.exe.config
+C:\Users\root\Desktop\Crtoii\c#\injection\Classic - call to bin\classicwodinvoke\bin\x64\Release\classicwodinvoke.exe
+C:\Users\root\Desktop\Crtoii\c#\injection\Classic - call to bin\classicwodinvoke\bin\x64\Release\classicwodinvoke.pdb
+C:\Users\root\Desktop\Crtoii\c#\injection\Classic - call to bin\classicwodinvoke\obj\x64\Release\classicwodinvoke.csproj.AssemblyReference.cache
+C:\Users\root\Desktop\Crtoii\c#\injection\Classic - call to bin\classicwodinvoke\obj\x64\Release\classicwodinvoke.csproj.SuggestedBindingRedirects.cache
+C:\Users\root\Desktop\Crtoii\c#\injection\Classic - call to bin\classicwodinvoke\obj\x64\Release\classicwodinvoke.csproj.CoreCompileInputs.cache
+C:\Users\root\Desktop\Crtoii\c#\injection\Classic - call to bin\classicwodinvoke\obj\x64\Release\classicwodinvoke.exe
+C:\Users\root\Desktop\Crtoii\c#\injection\Classic - call to bin\classicwodinvoke\obj\x64\Release\classicwodinvoke.pdb
+C:\Users\root\Desktop\Crtoii\c#\injection\Classic - call to bin - etw\classicwodinvoke\bin\x64\Release\classicwodinvoke.exe.config
+C:\Users\root\Desktop\Crtoii\c#\injection\Classic - call to bin - etw\classicwodinvoke\bin\x64\Release\classicwodinvoke.exe
+C:\Users\root\Desktop\Crtoii\c#\injection\Classic - call to bin - etw\classicwodinvoke\bin\x64\Release\classicwodinvoke.pdb
+C:\Users\root\Desktop\Crtoii\c#\injection\Classic - call to bin - etw\classicwodinvoke\obj\x64\Release\classicwodinvoke.csproj.AssemblyReference.cache
+C:\Users\root\Desktop\Crtoii\c#\injection\Classic - call to bin - etw\classicwodinvoke\obj\x64\Release\classicwodinvoke.csproj.SuggestedBindingRedirects.cache
+C:\Users\root\Desktop\Crtoii\c#\injection\Classic - call to bin - etw\classicwodinvoke\obj\x64\Release\classicwodinvoke.csproj.CoreCompileInputs.cache
+C:\Users\root\Desktop\Crtoii\c#\injection\Classic - call to bin - etw\classicwodinvoke\obj\x64\Release\classicwodinvoke.exe
+C:\Users\root\Desktop\Crtoii\c#\injection\Classic - call to bin - etw\classicwodinvoke\obj\x64\Release\classicwodinvoke.pdb
+C:\Users\root\Desktop\Crtoii\c#\injection\Classic - call to bin - etw - stub\classicwodinvoke\bin\x64\Release\classicwodinvoke.exe
+C:\Users\root\Desktop\Crtoii\c#\injection\Classic - call to bin - etw - stub\classicwodinvoke\bin\x64\Release\classicwodinvoke.exe.config
+C:\Users\root\Desktop\Crtoii\c#\injection\Classic - call to bin - etw - stub\classicwodinvoke\bin\x64\Release\classicwodinvoke.pdb
+C:\Users\root\Desktop\Crtoii\c#\injection\Classic - call to bin - etw - stub\classicwodinvoke\obj\x64\Release\classicwodinvoke.csproj.AssemblyReference.cache
+C:\Users\root\Desktop\Crtoii\c#\injection\Classic - call to bin - etw - stub\classicwodinvoke\obj\x64\Release\classicwodinvoke.csproj.SuggestedBindingRedirects.cache
+C:\Users\root\Desktop\Crtoii\c#\injection\Classic - call to bin - etw - stub\classicwodinvoke\obj\x64\Release\classicwodinvoke.csproj.CoreCompileInputs.cache
+C:\Users\root\Desktop\Crtoii\c#\injection\Classic - call to bin - etw - stub\classicwodinvoke\obj\x64\Release\classicwodinvoke.exe
+C:\Users\root\Desktop\Crtoii\c#\injection\Classic - call to bin - etw - stub\classicwodinvoke\obj\x64\Release\classicwodinvoke.pdb
+C:\Users\root\Desktop\Crtoii\c#\injection\Classic - call to bin - etw - ntcalls\classicwodinvoke\bin\x64\Release\classicwodinvoke.exe.config
+C:\Users\root\Desktop\Crtoii\c#\injection\Classic - call to bin - etw - ntcalls\classicwodinvoke\bin\x64\Release\classicwodinvoke.exe
+C:\Users\root\Desktop\Crtoii\c#\injection\Classic - call to bin - etw - ntcalls\classicwodinvoke\bin\x64\Release\classicwodinvoke.pdb
+C:\Users\root\Desktop\Crtoii\c#\injection\Classic - call to bin - etw - ntcalls\classicwodinvoke\obj\x64\Release\classicwodinvoke.csproj.AssemblyReference.cache
+C:\Users\root\Desktop\Crtoii\c#\injection\Classic - call to bin - etw - ntcalls\classicwodinvoke\obj\x64\Release\classicwodinvoke.csproj.SuggestedBindingRedirects.cache
+C:\Users\root\Desktop\Crtoii\c#\injection\Classic - call to bin - etw - ntcalls\classicwodinvoke\obj\x64\Release\classicwodinvoke.csproj.CoreCompileInputs.cache
+C:\Users\root\Desktop\Crtoii\c#\injection\Classic - call to bin - etw - ntcalls\classicwodinvoke\obj\x64\Release\classicwodinvoke.exe
+C:\Users\root\Desktop\Crtoii\c#\injection\Classic - call to bin - etw - ntcalls\classicwodinvoke\obj\x64\Release\classicwodinvoke.pdb
