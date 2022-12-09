@@ -2,7 +2,7 @@
 
 -------------------------------------\_~~__(··)_~~_/-------------------------------------------
 
-This repository contains a couple of simple loader scripts based on c#.
+This repository contains a couple of simple loader scripts based on c#. Using Dinvoke concept without having to integrate the dinvoke dll.
 
 
 - Technique -1 - GetSyscallStub :
